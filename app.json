@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "vet-clinic-mobile-app-expo",
-    "slug": "vet-clinic-mobile-app-expo",
+    "slug": "veterinaria",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -42,8 +42,9 @@
     "extra": {
       "router": {},
       "eas": {
-        "projectId": "6b637c17-c091-45ca-9876-8f41c937bf41"
+        "projectId": "db7e3bca-2faa-4f06-95b8-60aded8f57c4"
       }
-    }
+    },
+    "owner": "erickariel29"
   }
 }
